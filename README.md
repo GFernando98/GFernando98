@@ -112,11 +112,9 @@ var german = new Developer
 
 ### 📊 GitHub Stats
 
-<div>
-  <img src="https://streak-stats.demolab.com?user=GFernando98&theme=dark&border=2a2a3a&background=0a0a0f&ring=00e5c0&fire=7c6ef7&currStreakLabel=00e5c0&sideLabels=9090a8&dates=5a5a72&sideNums=e8e8f0&currStreakNum=e8e8f0" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GFernando98&layout=compact&theme=dark&border_color=2a2a3a&bg_color=0a0a0f&title_color=00e5c0&text_color=e8e8f0&hide=html,css&langs_count=8" width="40%" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=GFernando98&theme=dark&border=2a2a3a&background=0a0a0f&ring=00e5c0&fire=7c6ef7&currStreakLabel=00e5c0&sideLabels=9090a8&dates=5a5a72&sideNums=e8e8f0&currStreakNum=e8e8f0" />
 </div>
-
 <br/>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GFernando98&bg_color=0a0a0f&color=00e5c0&line=7c6ef7&point=e8e8f0&area=true&hide_border=true)
