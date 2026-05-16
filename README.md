@@ -125,6 +125,7 @@ var german = new Developer
 
 ### 📬 Contact
 
+- 🧑‍💻 [gmendoza.syscore.app](https://gmendoza.syscore.app/)
 - 💼 [linkedin.com/in/gfmendozad](https://www.linkedin.com/in/gfmendozad/)
 - 🌐 [syscore.app](https://www.syscore.app/)
 - 📧 gfmendoza.27@outlook.com
