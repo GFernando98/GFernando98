@@ -114,6 +114,7 @@ var german = new Developer
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=GFernando98&theme=dark&border=2a2a3a&background=0a0a0f&ring=00e5c0&fire=7c6ef7&currStreakLabel=00e5c0&sideLabels=9090a8&dates=5a5a72&sideNums=e8e8f0&currStreakNum=e8e8f0" />
+   <img src="https://github-readme-stats-rose-seven.vercel.app/api?username=GFernando98&show_icons=true&theme=cobalt" width="45%" />
 </div>
 <br/>
 
